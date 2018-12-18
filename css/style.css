@@ -1,0 +1,7 @@
+#btnDown{position: absolute;top:70%;left: 15%;}
+@media screen and (max-width: 1528px) and (min-width: 1000px){
+    #btnDown{position: absolute;top:50%;left: 10%;}
+}
+@media screen and (max-width: 1000px) and (min-width: 1px){
+    #btnDown{position: absolute;top:30%;left: 2%;}
+}
